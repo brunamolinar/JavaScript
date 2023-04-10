@@ -1,0 +1,1 @@
+Programa que muda a cor do bakcground aleatoriamente quando clica no botão: Troque a cor, com duas opções: Simples (escolhe entre cores pré definidas) e Hex (escolhe entre cores hexadecimais)
